@@ -32,11 +32,14 @@ Puedes abrirlo con:
 ## Estructura del proyecto
 ```
 TallerPython_BarronGonzalezJoseAngel/
+├── data/      
+│   ├── datos.csv
+│   └── datos.xlsx
 ├── notebooks/
 │   └── TallerPython_BarronGonzalezJoseAngel.ipynb
 ├── src/
 │   ├── main.py
-│   └── funciones.py
+│   └── example.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
