@@ -1,3 +1,4 @@
+#Ejemplo del taller, leer archivos excel
 import pandas as pd
 import numpy as np
 
