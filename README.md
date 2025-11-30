@@ -35,7 +35,8 @@ TallerPython_BarronGonzalezJoseAngel/
 ├── notebooks/
 │   └── TallerPython_BarronGonzalezJoseAngel.ipynb
 ├── src/
-│   └── main.py
+│   ├── main.py
+│   └── funciones.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
