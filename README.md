@@ -46,4 +46,3 @@ Desarrollado por: José Ángel Barrón González
 Curso: Python para la Ciencia, Tecnología e Ingeniería  
 Entrega como parte de la evaluación del taller.
 ```
-
